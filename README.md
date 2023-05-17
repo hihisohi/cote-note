@@ -4,13 +4,13 @@
 
 <br />
 
-### [➡️ Baekjoon Online Judge](./backjoon/README.md")
+### [➡️ Baekjoon Online Judge](./backjoon/README.md)
 
-### [➡️ Programmers school]("./programmers/README.md")
+### [➡️ Programmers school](./programmers/README.md)
 
-### [➡️ HackerRank]("./hackerrank/README.md")
+### [➡️ HackerRank](./hackerrank/README.md)
 
-### [➡️ goorm level]("./goorm/README.md")
+### [➡️ goorm level](./goorm/README.md)
 
 <br />
 <br />
